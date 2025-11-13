@@ -1,6 +1,6 @@
 /* typing animation */
 var typed = new Typed(".typing", {
-    strings: ["", "especialista em Excel", "programador Python", "desenvolvedor web", "desenvolvedor de landing pages"],
+    strings: ["", "especialista em Excel", "programador Python", "desenvolvedor web"],
     typeSpeed: 60,
     BackSpeed: 60,
     loop: true
